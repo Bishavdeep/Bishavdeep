@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3 align="left">Contact:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/bishavdeep-mahal-648a53268/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="30" width="40" /></a></p>  
+<p align="left"><a href="https://www.linkedin.com/in/bishavdeep-mahal-648a53268/" target="_blank"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" height="40" width="40" /></a></p>  
